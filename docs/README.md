@@ -33,8 +33,8 @@ Users should be able to:
 
 - My Desktop View Screenshot
 <img width="1264" height="599" alt="Screenshot 2026-05-06 222346" src="https://github.com/user-attachments/assets/840e85e0-c296-4cbc-a5c9-c50cdbdc31e8" />
-
-- My Mobiler View Screenshot
+<br>
+- My Mobile View Screenshot
 <img width="484" height="591" alt="Mobile View Screenshot" src="https://github.com/user-attachments/assets/7e98e5d0-7c89-45df-9d1b-0b7fe0799649" />
 
 ### Links
