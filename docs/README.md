@@ -31,15 +31,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+- My Desktop View Screenshot
+<img width="1264" height="599" alt="Screenshot 2026-05-06 222346" src="https://github.com/user-attachments/assets/840e85e0-c296-4cbc-a5c9-c50cdbdc31e8" />
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+- My Mobiler View Screenshot
+<img width="484" height="591" alt="Mobile View Screenshot" src="https://github.com/user-attachments/assets/7e98e5d0-7c89-45df-9d1b-0b7fe0799649" />
 
 ### Links
 
